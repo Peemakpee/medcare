@@ -1,0 +1,22 @@
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\bin\Debug\net8.0-windows\FInal Project.exe
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\bin\Debug\net8.0-windows\FInal Project.deps.json
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\bin\Debug\net8.0-windows\FInal Project.runtimeconfig.json
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\bin\Debug\net8.0-windows\FInal Project.dll
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\bin\Debug\net8.0-windows\FInal Project.pdb
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal_Project.Form1.resources
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal Project.vbproj.GenerateResource.cache
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal Project.AssemblyInfoInputs.cache
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal Project.AssemblyInfo.vb
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal Project.vbproj.CoreCompileInputs.cache
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal Project.dll
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\refint\FInal Project.dll
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal Project.pdb
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal Project.genruntimeconfig.cache
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\ref\FInal Project.dll
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal_Project.Form2.resources
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal_Project.Resources.resources
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal_Project.Form3.resources
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal_Project.Form4.resources
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal_Project.Form5.resources
+C:\Users\yanniee\source\repos\FInal Project\FInal Project\obj\Debug\net8.0-windows\FInal_Project.Form6.resources
